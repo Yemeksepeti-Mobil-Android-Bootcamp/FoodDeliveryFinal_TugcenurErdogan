@@ -18,7 +18,7 @@ My goal was to create an application that looks like a Yemeksepeti.
 
 ![#e96525](https://via.placeholder.com/15/e96525/000000?text=+) Fragments
 
-![#e96525](https://via.placeholder.com/15/e96525/000000?text=+) Navigation
+![#e96525](https://via.placeholder.com/15/e96525/000000?text=+) Navigation Component
 
 ![#e96525](https://via.placeholder.com/15/e96525/000000?text=+) ViewBinding
 
